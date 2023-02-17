@@ -8,7 +8,7 @@ You can open this sample in the Dev Environments feature of Docker Desktop versi
 
 ### Python/Flask application
 
-Project structure:
+Project structure
 ```
 .
 ├── compose.yaml
